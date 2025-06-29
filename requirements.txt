@@ -1,2 +1,4 @@
 streamlit
-llama-cpp-python
+llama_cpp
+os
+gdown
